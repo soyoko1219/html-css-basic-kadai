@@ -22,7 +22,7 @@ main{
 
 #parent{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .contents{
@@ -80,5 +80,7 @@ a:hover{
     }
 
     #parent  {
-        display:  inline-block;
+        display: block;
     }
+
+}

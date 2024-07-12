@@ -35,7 +35,7 @@ main{
 
 h2{
     font-size: 25px;
-    text-decoration: 3px underline dashed  rgb(236, 122, 122);
+    text-decoration: 3px underline dotted  rgb(236, 122, 122);
 }
 
 h2::before{
@@ -80,5 +80,5 @@ a:hover{
     }
 
     #parent  {
-        display:  block;
+        display:  inline-block;
     }

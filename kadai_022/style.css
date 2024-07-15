@@ -35,7 +35,7 @@ main{
 
 h2{
     font-size: 25px;
-    text-decoration: 3px underline dotted  rgb(236, 122, 122);
+    border-bottom: 3px underline dotted  rgb(236, 122, 122);
 }
 
 h2::before{
